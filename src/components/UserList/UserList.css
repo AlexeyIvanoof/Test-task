@@ -1,0 +1,18 @@
+.ul{
+    width: 580px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    overflow-y: scroll;
+    background-color: cornsilk;
+    height: 425px;
+    margin-top: 82px;
+    margin-bottom: 50px;
+}
+
+.list-user{
+display: flex;
+justify-content: center;
+opacity : 0.9;
+}

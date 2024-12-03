@@ -1,0 +1,27 @@
+.button{
+    width: 250px;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 12px;
+    background:#d3c9f1;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.lists-users{
+    text-align: center;
+}
+
+.button:placeholder{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: -0.05px;
+}
+
+.number-list{
+    color: white;
+    font-size: 20px;
+}

@@ -1,0 +1,21 @@
+/*.button{
+    width: 90px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 12px;
+    background:#d3c9f1;
+    margin-left: 10px;
+    font-size: 18px;
+}*/
+
+.sorting-block{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.label{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    color: #d0cece;
+}
